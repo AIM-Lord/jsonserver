@@ -1,8 +1,8 @@
 {
   "rows": [
-              { "name": 'Cupcake', "calories": 305, "fat": 305, "carbs": 305, "protein": 305, "price": 305, "history": [
-                { "date": '2020-01-05', "customerId": '11091700', "amount": 3 },
-                { "date": '2020-01-02', "customerId": 'Anonymous', "amount": 1 },
+              { "name": "Cupcake", "calories": 305, "fat": 305, "carbs": 305, "protein": 305, "price": 305, "history": [
+                { "date": "2020-01-05", "customerId": "11091700", "amount": 3 },
+                { "date": "2020-01-02", "customerId": "Anonymous", "amount": 1 },
               ] }
           ]
 }
