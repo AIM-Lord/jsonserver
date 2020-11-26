@@ -7,6 +7,50 @@
    { "name": 1, "calories": 1,  "fat": 3, "carbs": 3, "protein": 3, "price": 3, "history": [
     { "date": "2020-01-05", "customerId": "11091700",  "amount": 3},
     { "date": "2020-01-05", "customerId": "11091700",  "amount": 3}
+  ]  },
+   { "name": 1, "calories": 1,  "fat": 3, "carbs": 3, "protein": 3, "price": 3, "history": [
+    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3},
+    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3}
+  ]  },
+   { "name": 1, "calories": 1,  "fat": 3, "carbs": 3, "protein": 3, "price": 3, "history": [
+    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3},
+    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3}
+  ]  },
+   { "name": 1, "calories": 1,  "fat": 3, "carbs": 3, "protein": 3, "price": 3, "history": [
+    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3},
+    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3}
+  ]  },
+   { "name": 1, "calories": 1,  "fat": 3, "carbs": 3, "protein": 3, "price": 3, "history": [
+    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3},
+    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3}
+  ]  },
+   { "name": 1, "calories": 1,  "fat": 3, "carbs": 3, "protein": 3, "price": 3, "history": [
+    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3},
+    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3}
+  ]  },
+   { "name": 1, "calories": 1,  "fat": 3, "carbs": 3, "protein": 3, "price": 3, "history": [
+    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3},
+    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3}
+  ]  },
+   { "name": 1, "calories": 1,  "fat": 3, "carbs": 3, "protein": 3, "price": 3, "history": [
+    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3},
+    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3}
+  ]  },
+   { "name": 1, "calories": 1,  "fat": 3, "carbs": 3, "protein": 3, "price": 3, "history": [
+    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3},
+    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3}
+  ]  },
+   { "name": 1, "calories": 1,  "fat": 3, "carbs": 3, "protein": 3, "price": 3, "history": [
+    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3},
+    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3}
+  ]  },
+   { "name": 1, "calories": 1,  "fat": 3, "carbs": 3, "protein": 3, "price": 3, "history": [
+    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3},
+    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3}
+  ]  },
+   { "name": 1, "calories": 1,  "fat": 3, "carbs": 3, "protein": 3, "price": 3, "history": [
+    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3},
+    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3}
   ]  }
   ] 
 }
