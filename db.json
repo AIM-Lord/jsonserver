@@ -1,5 +1,6 @@
 {
-  "rows": [
-              { "name": "Cupcake", "calories": 305, "fat": 305, "carbs": 305, "protein": 305, "price": 305}
-          ]
+  "items": [
+    { "id": 1, "name": "Apples",  "price": "$2" },
+    { "id": 2, "name": "Peaches", "price": "$5" }
+  ] 
 }
