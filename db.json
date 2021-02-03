@@ -54,7 +54,7 @@
   ]  }
   ],
   
-  "transformer_data": [
+  "transformer_data": {
     "id": 1,
      "modello": "MK220",
      "data": "2020-01-05",
@@ -66,7 +66,7 @@
      "tensione_cc": "10%",  
      
   
-  ],
+  },
   
   
   "ids": [ 
