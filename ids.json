@@ -1,5 +1,5 @@
 {
-  "machines": [ 
+  "rows": [ 
    { "id": 1, "modello": "MK220"},
    { "id": 2, "modello": "MK220"},
    { "id": 3, "modello": "MK220"},
