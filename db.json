@@ -54,20 +54,6 @@
   ]  }
   ],
   
-  "transformer_data": {
-    "id": 1,
-     "modello": "MK220",
-     "data": "2020-01-05",
-     "luogo": "Rondissone,TO",
-     "stato": "Normale",
-     "potenza": "150KVA",
-     "tensione_primaria": "380kV",
-     "tensione_secondaria": "150kV", 
-     "tensione_cc": "10%",  
-     
-  
-  },
-  
   
   "ids": [ 
    { "id": 1, "modello": "MK220"},
