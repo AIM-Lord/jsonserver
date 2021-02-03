@@ -1,56 +1,56 @@
 {
   "rows": [
-    { "id": 1, "name": "MK220", "calories": 1,  "fat": 3, "carbs": 3, "protein": 3, "price": 3, "history": [
+    { "id": 1, "modello": "MK220", "data": "2020-01-05",  "luogo": "Rondissone,TO", "stato": "Normale", "history": [
+    { "date": "2020-01-05", "customerId": "11091700"},
+    { "date": "2020-01-05", "customerId": "11091700"}
+  ]  },
+   { "id": 2, "modello": "MK220", "data": "2020-01-05",  "luogo": "Rondissone,TO", "stato": "Normale", "history": [
+    { "date": "2020-01-05", "customerId": "11091700"},
+    { "date": "2020-01-05", "customerId": "11091700"}
+  ]  },
+   { "id": 3, "modello": "MK220", "data": "2020-01-05",  "luogo": "Rondissone,TO", "stato": "Normale", "history": [
+    { "date": "2020-01-05", "customerId": "11091700"},
+    { "date": "2020-01-05", "customerId": "11091700"}
+  ]  },
+   { "id": 4, "modello": "MK220", "data": "2020-01-05",  "luogo": "Rondissone,TO", "stato": "Normale", "history": [
+    { "date": "2020-01-05", "customerId": "11091700"},
+    { "date": "2020-01-05", "customerId": "11091700"}
+  ]  },
+   { "id": 5, "modello": "MK220", "data": "2020-01-05",  "luogo": "Rondissone,TO", "stato": "Rischio Alto", "history": [
     { "date": "2020-01-05", "customerId": "11091700",  "amount": 3},
     { "date": "2020-01-05", "customerId": "11091700",  "amount": 3}
   ]  },
-   { "id": 2, "name": "MK221", "calories": 1,  "fat": 3, "carbs": 3, "protein": 3, "price": 3, "history": [
+   { "id": 6, "modello": "MK220", "data": "2020-01-05",  "luogo": "Rondissone,TO", "stato": "Rischio Alto", "history": [
     { "date": "2020-01-05", "customerId": "11091700",  "amount": 3},
     { "date": "2020-01-05", "customerId": "11091700",  "amount": 3}
   ]  },
-   { "id": 3, "name": "MK222", "calories": 1,  "fat": 3, "carbs": 3, "protein": 3, "price": 3, "history": [
-    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3},
-    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3}
+   { "id": 7, "modello": "MK220", "data": "2020-01-05",  "luogo": "Rondissone,TO", "stato": "Rischio Alto", "history": [
+    { "date": "2020-01-05", "customerId": "11091700"},
+    { "date": "2020-01-05", "customerId": "11091700"}
   ]  },
-   { "id": 4, "name": "MK223", "calories": 1,  "fat": 3, "carbs": 3, "protein": 3, "price": 3, "history": [
-    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3},
-    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3}
+   { "id": 8, "modello": "MK220", "data": "2020-01-05",  "luogo": "Aprilia,RM", "stato": "Rischio Alto", "history": [
+    { "date": "2020-01-05", "customerId": "11091700"},
+    { "date": "2020-01-05", "customerId": "11091700"}
   ]  },
-   { "id": 5, "name": "MK224", "calories": 1,  "fat": 3, "carbs": 3, "protein": 3, "price": 3, "history": [
-    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3},
-    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3}
+   { "id": 9, "modello": "MK220", "data": "2020-01-05",  "luogo": "Aprilia,RM", "stato": "Anomalo", "history": [
+    { "date": "2020-01-05", "customerId": "11091700"},
+    { "date": "2020-01-05", "customerId": "11091700"}
   ]  },
-   { "id": 6, "name": "MK225", "calories": 1,  "fat": 3, "carbs": 3, "protein": 3, "price": 3, "history": [
-    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3},
-    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3}
+   { "id": 10, "modello": "MK220", "data": "2020-01-05",  "luogo": "Aprilia,RM", "stato": "Anomalo", "history": [
+    { "date": "2020-01-05", "customerId": "11091700"},
+    { "date": "2020-01-05", "customerId": "11091700"}
   ]  },
-   { "id": 7, "name": "MK226", "calories": 1,  "fat": 3, "carbs": 3, "protein": 3, "price": 3, "history": [
-    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3},
-    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3}
+   { "id": 11, "modello": "MK220", "data": "2020-01-05",  "luogo": "Aprilia,RM", "stato": "Anomalo", "history": [
+    { "date": "2020-01-05", "customerId": "11091700"},
+    { "date": "2020-01-05", "customerId": "11091700"}
   ]  },
-   { "id": 8, "name": "MK227", "calories": 1,  "fat": 3, "carbs": 3, "protein": 3, "price": 3, "history": [
-    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3},
-    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3}
+   { "id": 12, "modello": "MK2212", "data": "2020-01-05",  "luogo": "Aprilia,RM", "stato": "Anomalo", "history": [
+    { "date": "2020-01-05", "customerId": "11091700"},
+    { "date": "2020-01-05", "customerId": "11091700"}
   ]  },
-   { "id": 9, "name": "MK228", "calories": 1,  "fat": 3, "carbs": 3, "protein": 3, "price": 3, "history": [
-    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3},
-    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3}
-  ]  },
-   { "id": 10, "name": "MK229", "calories": 1,  "fat": 3, "carbs": 3, "protein": 3, "price": 3, "history": [
-    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3},
-    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3}
-  ]  },
-   { "id": 11, "name": "MK2210", "calories": 1,  "fat": 3, "carbs": 3, "protein": 3, "price": 3, "history": [
-    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3},
-    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3}
-  ]  },
-   { "id": 12, "name": "MK2212", "calories": 1,  "fat": 3, "carbs": 3, "protein": 3, "price": 3, "history": [
-    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3},
-    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3}
-  ]  },
-   { "id": 13, "name": "Mk2213", "calories": 1,  "fat": 3, "carbs": 3, "protein": 3, "price": 3, "history": [
-    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3},
-    { "date": "2020-01-05", "customerId": "11091700",  "amount": 3}
+   { "id": 13, "modello": "Mk2213", "data": "2020-01-05",  "luogo": "Aprilia,RM", "stato": "Anomalo", "history": [
+    { "date": "2020-01-05", "customerId": "11091700"},
+    { "date": "2020-01-05", "customerId": "11091700"}
   ]  }
   ] 
 }
