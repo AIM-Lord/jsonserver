@@ -1,1 +1,17 @@
-id : []
+{
+  "machines": [ 
+   { "id": 1, "modello": "MK220"},
+   { "id": 2, "modello": "MK220"},
+   { "id": 3, "modello": "MK220"},
+   { "id": 4, "modello": "MK220"},
+   { "id": 5, "modello": "MK220"},
+   { "id": 6, "modello": "MK220"},
+   { "id": 7, "modello": "MK220"},
+   { "id": 8, "modello": "MK220"},
+   { "id": 9, "modello": "MK220"},
+   { "id": 10, "modello": "MK220"},
+   { "id": 11, "modello": "MK220"},
+   { "id": 12, "modello": "MK2212"},
+   { "id": 13, "modello": "Mk2213"}
+  ] 
+}
